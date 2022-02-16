@@ -1,3 +1,65 @@
-body {
-    background-color: aqua;
+/* Reset  */
+
+* {
+    box-sizing: border-box;
 }
+
+
+/* Base  */
+
+/* Header / First page Section  */
+
+header {
+
+}
+
+nav {
+
+}
+
+h1 {
+
+}
+
+.header-links {
+
+}
+
+.about-me {
+
+}
+
+.portfolio {
+
+}
+
+.experience {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+strong {
+
+}
+
+u {
+
+}
+
+hr {
+
+}
+
+/* About Us Section  */
+
+h3 {
+
+}
+
