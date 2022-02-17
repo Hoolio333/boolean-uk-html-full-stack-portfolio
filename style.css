@@ -1,84 +1,90 @@
 /* Reset  */
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-
 
 /* Base  */
 
 /* Header / First page Section  */
 
 header {
-
 }
 
 nav {
-
 }
 
 .profile {
-
 }
 
 .header-links {
-
 }
 
 .about-me {
-
 }
 
 .portfolio {
-
 }
 
 .experience {
-
 }
 
 h1 {
-
 }
 
 .p1 {
-
 }
 
 strong {
-
 }
 
 u {
-
 }
 
 hr {
-
 }
 
 /* About Us Section  */
 
 h2 {
-
 }
 
 h3 {
-
 }
 
 .p2 {
-
 }
 
 ul {
-
 }
 
-.portfolio-title {
+/* Portfolio Section  */
 
+.portfolio-title {
 }
 
 .title1 {
-    
+}
+
+.title2 {
+}
+
+.title3 {
+}
+
+h4 {
+}
+
+.read-more {
+}
+
+.git-repo {
+}
+
+.experience-section {
+}
+
+/* Footer  */
+
+footer {
 }
